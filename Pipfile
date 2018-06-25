@@ -13,6 +13,7 @@ tornado = "*"
 bokeh = "*"
 "jinja2" = "*"
 django = "*"
+python-decouple = "*"
 
 [dev-packages]
 
